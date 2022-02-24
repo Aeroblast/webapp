@@ -58,7 +58,7 @@
 </head>
 
 <body>
-    <div id="bar">……</div>
+    <div id="bar">非实用诡异转义装置……（只处理半角引号和Unicode）</div>
     <textarea id="raw"></textarea>
     <div id="center">
         <button onclick="unescape()">←</button>
@@ -74,10 +74,6 @@
             let r = "";
             let temp = "";
             for (const c of text) {
-                if (c == "\\") {
-                    r += "\\\\";
-                    continue;
-                }
                 if (c == "\"") {
                     r += "\\\"";
                     continue;
@@ -104,9 +100,9 @@
                 }
                 if (state == 1) {
                     switch (c) {
-                        case "\\": r += "\\"; state = 0; break;
                         case "\"": r += "\""; state = 0; break;
                         case "u": state = 2; break;
+                        default: r += "\\" + c; state = 0; break;
                     }
                     continue;
                 }
