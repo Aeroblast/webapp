@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta http-equiv="expires" content="0">
+    <meta name="description" content="Personal Blog">
+    <title>BDSP宝芬懒人配方</title>
+    <style>
+        html,
+        body {
+            background: #101010;
+            color: #FAEBD7;
+            /*antiquewhite*/
+            text-align: center;
+            overflow-x: hidden;
+            font-size: 16px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        article {
+            margin: auto;
+            margin-top: 1em;
+            width: 100vh;
+            max-width: 96vw;
+            border: 1px red solid;
+            padding-left: 0.5em;
+            padding-right: 0.5em;
+        }
+
+        p,
+        table {
+            margin: 0;
+            line-height: 1.5;
+            text-align: left;
+        }
+
+        a {
+            color: rgb(245, 159, 46);
+            text-decoration: none;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        td {
+            text-align: left;
+            border: 1px rgb(255, 230, 0) solid;
+        }
+
+        .copy {
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <article></article>
+    <script>
+
+        const article = `
+[b]『宝可梦晶灿钻石／明亮珍珠』宝芬懒人配方[/b]
+[b]宝芬[/b]（日文︰ポフィン，英文︰Poffin），用来提升[b]状态[/b]。
+[b]状态[/b]（日文︰コンディション，英文︰Condition），包括帅气、美丽、可爱、聪明和强壮，影响华丽大赛成绩。
+[b]宝芬[/b]有[b]润口度[/b]（日文︰なめらかさ，英文︰Smoothness）。不要管字面意思，事实上[b]润口度[/b]相当于COST，越低越好。
+树果搭配影响[b]宝芬[/b]数值。由于本作可以全部拉满，所以直接看完美配方，不管细节数值。
+
+在[b]互动广场[/b]（日文︰ふれあい広場，英文︰Amity Square）制作，满友好度的精灵越多越好。
+
+[lang_switch]
+
+[b]【古早配方】[/b]
+听说是G4时期难如登天的配方。数值似乎大幅溢出。树果获取比较困难。
+[recipe0]
+
+
+[日站](https://game8.jp/pokemon-bdsp/409406)给了两个配方，并且给了制作目标。
+[b]【获取难度低、制作要求高】[/b]
+目标等级：71以上（料理时间45秒以内）
+　润口度：18以下（各吃三个）
+需要互动广场的Buff（带6只，其中3只以上满友好度）
+[recipe1]
+
+[b]【获取难度高、制作要求低】[/b]
+目标等级：66以上（料理时间53秒以内—）
+　润口度：27以下（各吃两个）
+互动广场的Buff随意。
+[recipe2]
+
+
+`;
+        const name_data_raw = `
+樱子果	クラボのみ	Cheri Berry	1
+零余果	カゴのみ	Chesto Berry	2
+桃桃果	モモンのみ	Pecha Berry	3
+莓莓果	チーゴのみ	Rawst Berry	4
+利木果	ナナシのみ	Aspear Berry	5
+苹野果	ヒメリのみ	Leppa Berry	6
+橙橙果	オレンのみ	Oran Berry	7
+柿仔果	キーのみ	Persim Berry	8
+木子果	ラムのみ	Lum Berry	9
+文柚果	オボンのみ	Sitrus Berry	10
+勿花果	フィラのみ	Figy Berry	11
+异奇果	ウイのみ	Wiki Berry	12
+芒芒果	マゴのみ	Mago Berry	13
+乐芭果	バンジのみ	Aguav Berry	14
+芭亚果	イアのみ	Iapapa Berry	15
+蔓莓果	ズリのみ	Razz Berry	16
+墨莓果	ブリーのみ	Bluk Berry	17
+蕉香果	ナナのみ	Nanab Berry	18
+西梨果	セシナのみ	Wepear Berry	19
+凰梨果	パイルのみ	Pinap Berry	20
+榴石果	ザロクのみ	Pomeg Berry	21
+藻根果	ネコブのみ	Kelpsy Berry	22
+比巴果	タポルのみ	Qualot Berry	23
+哈密果	ロメのみ	Hondew Berry	24
+萄葡果	ウブのみ	Grepa Berry	25
+茄番果	マトマのみ	Tamato Berry	26
+玉黍果	モコシのみ	Cornn Berry	27
+岳竹果	ゴスのみ	Magost Berry	28
+茸丹果	ラブタのみ	Rabuta Berry	29
+檬柠果	ノメルのみ	Nomel Berry	30
+刺角果	ノワキのみ	Spelon Berry	31
+椰木果	シーヤのみ	Pamtre Berry	32
+瓜西果	カイスのみ	Watmel Berry	33
+金枕果	ドリのみ	Durin Berry	34
+靛莓果	ベリブのみ	Belue Berry	35
+巧可果	オッカのみ	Occa Berry	36
+千香果	イトケのみ	Passho Berry	37
+烛木果	ソクノのみ	Wacan Berry	38
+罗子果	リンドのみ	Rindo Berry	39
+番荔果	ヤチェのみ	Yache Berry	40
+莲蒲果	ヨプのみ	Chople Berry	41
+通通果	ビアーのみ	Kebia Berry	42
+腰木果	シュカのみ	Shuca Berry	43
+棱瓜果	バコウのみ	Coba Berry	44
+福禄果	ウタンのみ	Payapa Berry	45
+扁樱果	タンガのみ	Tanga Berry	46
+草蚕果	ヨロギのみ	Charti Berry	47
+佛柑果	カシブのみ	Kasib Berry	48
+莓榴果	ハバンのみ	Haban Berry	49
+刺耳果	ナモのみ	Colbur Berry	50
+霹霹果	リリバのみ	Babiri Berry	51
+灯浆果	ホズのみ	Chilan Berry	52
+枝荔果	チイラのみ	Liechi Berry	53
+龙睛果	リュガのみ	Ganlon Berry	54
+沙鳞果	カムラのみ	Salac Berry	55
+龙火果	ヤタピのみ	Petaya Berry	56
+杏仔果	ズアのみ	Apicot Berry	57
+兰萨果	サンのみ	Lansat Berry	58
+星桃果	スターのみ	Starf Berry	59
+谜芝果	ナゾのみ	Enigma Berry	60
+奇秘果	ミクルのみ	Micle Berry	61
+释陀果	イバンのみ	Custap Berry	62
+嘉珍果	ジャポのみ	Jaboca Berry	63
+雾莲果	レンブのみ	Rowap Berry	64
+洛玫果	ロゼルのみ	Roseli Berry	65`;
+
+        const recipe0 = `
+21\t33\t43\t53
+22\t34\t44\t54
+23\t35\t45\t55
+24\t31\t41\t56
+25\t32\t42\t57`;
+        const recipe1 = `
+フィラのみ\tザロクのみ\tマトマのみ\tノワキのみ
+ウイのみ\tネコブのみ\tモコシのみ\tシーヤのみ
+マゴのみ\tタポルのみ\tゴスのみ\tカイスのみ
+バンジのみ\tロメのみ\tラブタのみ\tドリのみ
+イアのみ\tウブのみ\tノメルのみ\tベリブのみ`;
+        const recipe2 = `ザロクのみ\tゴスのみ\tカイスのみ\tチイラのみ
+ネコブのみ\tラブタのみ\tドリのみ\tリュガのみ
+タポルのみ\tノメルのみ\tベリブのみ\tカムラのみ
+ロメのみ\tマトマのみ\tノワキのみ\tヤタピのみ
+ウブのみ\tモコシのみ\tシーヤのみ\tズアのみ`
+
+        const recipes = [recipe0, recipe1, recipe2];
+        const recipes_src_lang = [3, 1, 1]
+
+        var name_data;
+        var recipe_HTML;
+
+        const switch_lang_HTML = `
+            <button onclick="SwitchLang(0)">CN</button>
+            <button onclick="SwitchLang(1)">JA</button>
+            <button onclick="SwitchLang(2)">EN</button>
+            `;
+        function SwitchLang(i) {
+            [].forEach.call(document.querySelectorAll(".item"),
+                e => e.innerHTML = e.getAttribute('data-l' + i)
+            );
+        }
+
+        function InitNameData() {
+            name_data = name_data_raw.trim().split('\n').map(x => x.split('\t'));
+        }
+        /** @param {number} src - lang 
+         *  @param {number} dst - lang 
+        */
+        function NameTrans(name, src, dst) {
+            return name_data.find(x => x[src] == name)[dst]
+        }
+
+        function InitRecipe() {
+            let dst = 0;
+            recipe_HTML = new Array(recipes.length);
+            for (let i = 0; i < recipes.length; i++) {
+                let r = "<table><tbody>";
+                const recipe = recipes[i].trim().split('\n').map(l => l.split('\t'));
+                for (let line of recipe) {
+                    r += "<tr>";
+                    r += line.map(c => {
+                        let item = name_data.find(x => x[recipes_src_lang[i]] == c);
+                        if (!item) {
+                            throw ("cannot find " + c)
+                        }
+                        let attr = "";
+                        for (let j = 0; j < 4; j++) {
+                            attr += `data-l${j}="${item[j]}" `
+                        }
+                        return `<td>
+                            <input type="checkbox">
+                            No.${item[3]} <span class="item" ${attr}>${item[dst]}</span>
+                            <span class="copy" onclick="request('${item[2]}')">&#x2398;</span>
+                            </td>`;
+                    }).join('');
+                    r += "</tr>";
+
+                }
+                r += "</tbody></table>";
+                recipe_HTML[i] = r;
+            }
+        }
+
+        function Init() {
+            InitNameData();
+            InitRecipe();
+            document.querySelector("article").innerHTML = GenHTML(article);
+        }
+        function GenHTML(text) {
+            const lines = text.split('\n');
+            let r = "";
+            for (const line of lines) {
+                let x = line;
+                x = x.replaceAll(/\[(.*?)\]\((.*?)\)/g,
+                    "<a href='$2' target='_blank'>$1</a>");
+                x = x.replaceAll(/\[b\](.*?)\[\/b\]/g,
+                    "<b>$1</b>");
+                x = x.replaceAll(/\[recipe([0-9])\]/g,
+                    (m, p1) => recipe_HTML[p1]
+                );
+                x = x.replaceAll("[lang_switch]", switch_lang_HTML);
+                if (x.startsWith("<table")) {
+                    r += x;
+                } else {
+                    r += `<p>${x ? x : "<br>"}</p>`;
+                }
+            }
+            return r;
+
+        }
+        function request(name) {
+            copy(`$trade 
+Arceus @ ${name}`)
+        }
+        function copy(t) {
+            console.log(t);
+            navigator.clipboard.writeText(t);
+        }
+        Init();
+    </script>
+
+</body>
+
+</html>
