@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+    <meta http-equiv="expires" content="0">
+    <meta name="description" content="PM Name">
+    <title>PM Name Translation</title>
+    <style>
+        html,
+        body {
+            background: #101010;
+            color: #FAEBD7;
+            /*antiquewhite*/
+            text-align: center;
+            overflow-x: hidden;
+            font-size: 16px;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        #bar {
+            height: auto;
+        }
+
+        button {
+            width: 100%;
+        }
+
+        #center {
+            display: inline-block;
+            vertical-align: top;
+            width: 4%;
+            height: 90vh;
+            margin: 1vh 0;
+        }
+
+        textarea {
+            width: 45%;
+            height: 90vh;
+            background: #101010;
+            color: #FAEBD7;
+            margin: 1vh 2vw;
+            padding: 0;
+        }
+
+        #raw {
+            margin-right: 0;
+        }
+
+        #escaped {
+            margin-left: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="bar">宝可梦名字转换：把其他语言（JPN、ENG、CHT）的宝可梦名字换成CHS<br> <select>
+            <option>CHS</option>
+        </select> </div>
+    <textarea id="raw"></textarea>
+    <div id="center">
+        <button onclick="escape()">→</button>
+    </div>
+    <textarea id="escaped"></textarea>
+    <script>
+        const textarea_raw = document.getElementById("raw");
+        const textarea_escaped = document.getElementById("escaped");
+        var data;
+
+        async function load() {
+            const raw_data = await (await fetch("pm_names.txt")).text();
+            data = raw_data.trim().replaceAll('\r', '').split('\n').map(l => l.split('\t'))
+            console.log(data)
+        }
+        load();
+
+        function escape() {
+            if (!data) { return; }
+            let text = textarea_raw.value;
+            let langs = [2, 3, 4];
+            let lang_target = 1;
+            // 倒着，应对多边兽这种名字
+            for (let i = data.length - 1; i >= 0; i--) {
+                const line = data[i];
+                for (const lang of langs) {
+                    text = text.replaceAll(line[lang], line[lang_target]);
+                }
+            }
+
+            textarea_escaped.value = text;
+        }
+
+    </script>
+
+</body>
+
+</html>
