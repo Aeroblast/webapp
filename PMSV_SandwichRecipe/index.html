@@ -1,0 +1,301 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>PMSV Sandwich</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            padding: 2px;
+        }
+
+        article {
+            background: #eeeeee;
+            max-width: 80vh;
+            width: 95%;
+            margin: auto;
+            padding: 0.5em;
+            border-radius: 0.5em;
+            font-size: 2vh;
+        }
+
+        div {
+            margin: 0.2em;
+            padding: 0.2em;
+        }
+
+        ol {
+            padding: 0;
+        }
+
+        li {
+            list-style: none;
+            border-radius: 0.5em;
+            border: solid 1px #aaaaaa;
+        }
+
+        .recipe_name {
+            border-radius: 0.5em;
+            background: #aaaaaa;
+            padding-left: 1em;
+        }
+
+        .detail {
+            display: table;
+            width: 100%;
+            font-size: 1em;
+
+        }
+
+        .detail>div {
+            width: 45%;
+
+
+            display: table-cell;
+        }
+
+        .icon {
+            height: 1em;
+            display: inline;
+        }
+
+        .source {}
+
+        .power {}
+
+        li[data-select=false] {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <article>
+        <div>
+            <select id="select_lang" onchange="ChangeLang()">
+                <option selected value="chs">CHS</option>
+                <option value="jpn">JPN</option>
+                <option value="eng">ENG</option>
+            </select>
+            <br>
+
+            <span id="filters">
+                <select class="filter_power">
+                    <option selected value="闪耀力">闪耀力</option>
+                </select>
+
+                <select class="filter_power">
+                    <option selected value="称号力">称号力</option>
+                </select>
+                <select class="filter_power">
+                    <option selected value="大大力">大大力</option>
+                </select>
+
+                <select class="filter_type">
+                    <option selected value="一般">一般</option>
+                </select>
+            </span>
+
+            <button onclick="Apply()">Apply</button>
+        </div>
+
+        <div>
+            Current: <span id="current_filter"></span>
+        </div>
+        <ol>
+            <li></li>
+        </ol>
+    </article>
+
+    <script>
+        const names_power = `
+蛋蛋力|タマゴ|Egg
+捕获力|ほかく|Catching
+经验力|けいけんち|Exp. Point
+掉物力|おとしもの|Item Drop
+团战力|レイド|Raid
+称号力|二つ名|Title
+闪耀力|かがやき|Sparkling
+大大力|でかでか|Humungo
+小小力|ちびちび|Teensy
+遭遇力|そうぐう|Encounter`.trim().split('\n').map(l => l.split('|'));
+        var data_condiment;
+        var data_ingredient;
+        var data_recipe;
+        var data_type;
+        var loaded = false;
+        async function load() {
+            const p0 = fetch("data_condiment.json").then(r => r.json()).then(json => data_condiment = json);
+            const p1 = fetch("data_ingredient.json").then(r => r.json()).then(json => data_ingredient = json);
+            const p2 = fetch("data_recipe.json").then(r => r.json()).then(json => data_recipe = json);
+            const p3 = fetch("names_type.txt").then(r => r.text()).then(text => {
+
+                const raw = text.replaceAll('\r', '').trim();
+                const type_names = raw.split('\n').map(l => l.split('\t'));
+                data_type = type_names.map(l => {
+                    const chs = l[0].split('/');
+                    const jpn = l[2].split('/');
+                    const obj = {
+                        chs: chs[0],
+                        cht: l[1],
+                        jpn: jpn[0],
+                        jpn_alter: jpn[1],
+                        eng: l[3]
+                    }
+                    if (chs.length > 1) { obj.chs_alter = chs[1]; }
+                    return obj;
+                })
+            });
+
+            await Promise.all([p0, p1, p2, p3])
+
+            console.log(names_power);
+            console.log(data_condiment);
+            console.log(data_ingredient);
+            console.log(data_recipe);
+            console.log(data_type);
+            GenHTML();
+
+            InitFilters();
+
+            loaded = true;
+            // to-do: load query
+        }
+        function InitFilters() {
+            let opts = names_power.map(l => `
+<option value="${l[0]}" 
+        data-chs="${l[0]}" data-jpn="${l[1]}" data-eng="${l[2]}"
+        >${l[0]}</option>`).join("");
+            let opts2 = data_type.map(o => `
+<option value="${o.chs}" 
+        data-chs="${o.chs}" data-jpn="${o.jpn}" data-eng="${o.eng}"
+        >${o.chs}</option>`);
+            const f_power = `<select class="filter_power"><option selected value="">---</option>${opts}</select>`;
+            const f_type = `<select class="filter_type"><option selected value="">---</option>${opts2}</select>`;
+            document.querySelector("#filters").innerHTML = `
+            ${f_power}${f_power}${f_power}${f_type}
+            `;
+        }
+        function GenHTML() {
+            let r = data_recipe.map(Recipe2HTML).join("");
+            let ol = document.querySelector("ol");
+            ol.innerHTML = r;
+            for (let i = 0; i < data_recipe.length; i++) {
+                data_recipe[i].element = ol.children[i]
+            }
+        }
+        const recipe_name_original = `<span data-chs="自由模式" data-jpn="フリーモード" data-eng="Creative Mode">自由模式</span>`;
+        function Item2HTML(name, data) {
+            let item = data.find(x => x.name == name);
+            let icon = "";
+            if (name != "任意秘传调味料") {
+                icon = `<img class="icon" src="icons/${name}.png">`
+            }
+            return `
+<div class="item">
+${icon}
+<span data-chs="${name}" data-jpn="${item.name_jpn}" data-eng="${item.name_eng}">${name}</span>
+</div>`;
+        }
+        function Power2HTML(obj) {
+            let type = "";
+            if (obj.type) {
+                type = data_type.find(x => x.chs == obj.type);
+                type = `<span class="type" data-chs="${obj.type}" data-jpn="${type.jpn}" data-eng="${type.eng}">${obj.type}</span>`;
+            }
+            let power_name = names_power.find(x => x[0] == obj.name);
+            return `
+<div class="power">
+    <span class="name" data-chs="${obj.name}" data-jpn="${power_name[1]}" data-eng="${power_name[2]}">${obj.name}</span>
+    ${type}
+    <span class="lv">${obj.lv}</span>
+</div>`;
+        }
+
+        function Recipe2HTML(recipe) {
+            let name;
+            if (recipe.number) {
+                name = `<span class="recipe_number">${recipe.number}</span>
+                <span data-chs="${recipe.name}" data-jpn="${recipe.name_jpn}" data-eng="${recipe.name_eng}">${recipe.name}</span>`;
+            } else {
+                name = recipe_name_original;
+            }
+            let ingredients = recipe.ingredients.map(item => Item2HTML(item, data_ingredient)).join("");
+            let condiments = recipe.condiments.map(item => Item2HTML(item, data_condiment)).join("");
+            let powers = recipe.powers.map(p => Power2HTML(p)).join("");
+
+            return `
+<li>
+<div class="recipe_name">${name}</div>
+<div class="detail">
+    <div class="source">
+    ${ingredients}
+    <hr>   
+    ${condiments} 
+    </div>
+    <div class="power">
+    ${powers}    
+    </div>
+</div>
+</li>
+`;
+        }
+
+
+        load();
+
+
+
+        function Apply() {
+            if (!loaded) return;
+            let powers = Array.from(document.querySelectorAll(".filter_power")).map(e => e.value);
+            powers = powers.filter(x => x);
+            let type = document.querySelector(".filter_type").value;
+            document.querySelector("#current_filter").innerHTML = powers.join(", ") + (type ? " × " + type : "");
+            let result = data_recipe.filter(recipe => {
+                for (const needed of powers) {
+                    let r = recipe.powers.find(x => x.name == needed);
+                    if (!r) { return false; }
+                    if (type && r.type) {
+                        if (type != r.type) {
+                            return false;
+                        }
+                    }
+                }
+                return true;
+            })
+
+            data_recipe.forEach(x => x.element.setAttribute("data-select", "false"))
+            result.forEach(x => x.element.setAttribute("data-select", "true"))
+        }
+        function ChangeLang() {
+            const s = document.querySelector("#select_lang");;
+            if (!loaded) { s.value = "chs"; return; }
+            const k = "data-" + s.value;
+            const es = document.querySelectorAll(`[${k}]`);
+            [].forEach.call(es, e => {
+                let v = e.getAttribute(k);
+                e.innerHTML = v;
+            })
+        }
+
+
+        function GetQuery() {
+
+        }
+
+        function SetQuery() {
+
+        }
+
+
+    </script>
+</body>
+
+</html>

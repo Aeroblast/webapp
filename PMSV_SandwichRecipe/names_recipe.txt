@@ -1,0 +1,151 @@
+火腿黄油三明治	ジャンボンブール	Jambon-Beurre	馅料仅有火腿和黄油的简单三明治。正因为其朴素，所以偷工减料定会被识破。
+苦味火腿黄油三明治	にがみのジャンボンブール	Bitter Jambon-Beurre	在火腿黄油三明治中加入了苦味。要是爱吃苦味，可不能错过。
+甜味火腿黄油三明治	あまみのジャンボンブール	Sweet Jambon-Beurre	在火腿黄油三明治中加入了甜味。想品尝极品甜味就该吃这个。
+咸味火腿黄油三明治	えんみのジャンボンブール	Salty Jambon-Beurre	在火腿黄油三明治中加入了咸味。虽然咸味极其浓厚，但确实美味。
+酸味火腿黄油三明治	さんみのジャンボンブール	Sour Jambon-Beurre	在火腿黄油三明治中加入了酸味。酸味突出，齿颊留香。
+辣味火腿黄油三明治	からみのジャンボンブール	Spicy Jambon-Beurre	在火腿黄油三明治中加入了辣味。没吃过这款三明治都不能说自己爱吃辣。
+传说苦味三明治	レジェンドにがみサンド	Legendary Bitter Sandwich	被称为苦味之极致的三明治。加调味料时不能手软。
+传说咸味三明治	レジェンドしおみサンド	Legendary Salty Sandwich	面向会吃的人，能享受咸味的三明治。吃的时候必须准备饮料。
+传说甜味三明治	レジェンドあまみサンド	Legendary Sweet Sandwich	甜得吓人的三明治。秘诀是要多下调味料。
+传说酸味三明治	レジェンドさんみサンド	Legendary Sour Sandwich	为酸味爱好者献上的三明治。调味料越新鲜，酸味越强。
+传说辣味三明治	レジェンドからみサンド	Legendary Spicy Sandwich	辣得会刺痛舌头的辛辣三明治。不擅长辣味的人可要注意了。
+果酱三明治	ジャムサンド	Jam Sandwich	馅料仅有果酱和草莓的三明治。正因为其朴素，所以是百吃不腻的佳肴。
+超级果酱三明治	スーパージャムサンド	Great Jam Sandwich	通过添加酸奶突出甜味，让整个口感与味道更加有深度了。
+高级果酱三明治	ハイパージャムサンド	Ultra Jam Sandwich	份量十足，作为正餐或是点心都适合。凤梨选择甜味强烈的为佳。
+大师果酱三明治	マスタージャムサンド	Master Jam Sandwich	通过调味料让所有馅料化为一体的完美三明治。
+花生酱三明治	ピーナッツバターサンド	Peanut Butter Sandwich	花生酱与香蕉的组合意外地搭配，吃完让人果腹感十足。
+超级花生酱三明治	スーパーピーナッツバターサンド	Great Peanut Butter Sandwich	加入了黄油，成功让这款三明治拥有了扎实的口感。
+高级花生酱三明治	ハイパーピーナッツバターサンド	Ultra Peanut Butter Sandwich	通过加入果酱的甜味，这款三明治带来的果腹感更高了。
+大师花生酱三明治	マスターピーナッツバターサンド	Master Peanut Butter Sandwich	故意加入辣味，让这款三明治神奇地让人上瘾。
+酸黄瓜三明治	ピクルスサンド	Pickle Sandwich	极为简单的三明治。希望能在橄榄油上特别讲究。
+超级酸黄瓜三明治	スーパーピクルスサンド	Great Pickle Sandwich	这款三明治中酸黄瓜的酸味和豆瓣菜的风味，相衬得如微风般舒服。
+高级酸黄瓜三明治	ハイパーピクルスサンド	Ultra Pickle Sandwich	由于加入了罗勒，这款三明治的风味变得有层次了。
+大师酸黄瓜三明治	マスターピクルスサンド	Master Pickle Sandwich	简单健康的三明治。酸味强劲，后劲十足。
+橘子酱三明治	マーマレードサンド	Marmalade Sandwich	朴实且价格实惠，却不失美味，切薄烤香增添风味也甚佳。
+超级橘子酱三明治	スーパーマーマレードサンド	Great Marmalade Sandwich	这款三明治通过油的甜味突出了酸味。要小心不要放太多黄油了。
+高级橘子酱三明治	ハイパーマーマレードサンド	Ultra Marmalade Sandwich	橘子酱的酸味越强就越好吃。吃这款三明治时要稍微注意卡路里。
+大师橘子酱三明治	マスターマーマレードサンド	Master Marmalade Sandwich	画龙点睛的咸味左右其整体味道。这款三明治建立在一种恰到好处的平衡上。
+香草香肠三明治	ハーブソーセージサンド	Herbed-Sausage Sandwich	加入了带香草芳香的香肠与番茄酱的三明治。
+超级香草香肠三明治	スーパーハーブソーセージサンド	Great Herbed-Sausage Sandwich	黄芥末酱的酸味与辣味让这款三明治味道层次丰富。
+高级香草香肠三明治	ハイパーハーブソーセージサンド	Ultra Herbed-Sausage Sandwich	这款三明治的馅料由新鲜蔬菜与香肠组成，绝对不会难吃。
+大师香草香肠三明治	マスターハーブソーセージサンド	Master Herbed-Sausage Sandwich	这款三明治拥有最主流的美味。苦味让馅料的味道融为一体。
+咖喱饭风味三明治	カレーライスふうサンド	Curry-and-Rice-Style Sandwich	馅料配搭奇异的三明治。咖喱粉最好用火轻轻一烤。
+超级咖喱饭风味三明治	スーパーカレーライスふうサンド	Great Curry-and-Rice-Style Sandwich	虽然加入了辣味让这款三明治更容易入口，但喜恶还是得看吃的人。
+高级咖喱饭风味三明治	ハイパーカレーライスふうサンド	Ultra Curry-and-Rice-Style Sandwich	靠番茄的鲜味变得更加容易入口，但喜不喜欢这款三明治还是要看人。
+大师咖喱饭风味三明治	マスターカレーライスふうサンド	Master Curry-and-Rice-Style Sandwich	拥有强烈辣味，非常刺激的三明治。其组合一如既往的充满了野心。
+点心三明治	おやつサンド	Dessert Sandwich	最合适当作点心的三明治。用甜甜的酸奶做成。
+超级点心三明治	スーパーおやつサンド	Great Dessert Sandwich	奇异果的绿色十分美丽，不仅好吃还养眼的三明治。
+高级点心三明治	ハイパーおやつサンド	Ultra Dessert Sandwich	这款三明治内夹有３款水果，十分惹人喜爱。冰镇再吃也是极品。
+大师点心三明治	マスターおやつサンド	Master Dessert Sandwich	简直能称之为完美的点心三明治。调味料不需多，足以提味即可。
+热带三明治	トロピカルサンド	Tropical Sandwich	酸味与鲜美的平衡是其关键，多下橘子酱是其成功的秘诀。
+超级热带三明治	スーパートロピカルサンド	Great Tropical Sandwich	全靠凤梨给这款三明治带来了热带的感觉，酸味越强越是美味。
+高级热带三明治	ハイパートロピカルサンド	Ultra Tropical Sandwich	感觉到异国风情的三明治。加入辣味让味道有了深度。
+大师热带三明治	マスタートロピカルサンド	Master Tropical Sandwich	不失热带之名的三明治。通过调味料统一了味道。
+牛油果三明治	アボカドサンド	Avocado Sandwich	味道会随牛油果的后熟程度而变化，是一款让人永远吃不腻的三明治。
+超级牛油果三明治	スーパーアボカドサンド	Great Avocado Sandwich	味道实在的三明治。馅料适合任何人，绝不会错。
+高级牛油果三明治	ハイパーアボカドサンド	Ultra Avocado Sandwich	实在又好吃的三明治。馅料组合绝不会难吃，味道让人安心。
+大师牛油果三明治	マスターアボカドサンド	Master Avocado Sandwich	味道稳定得堪称完美的三明治。咸味足够，实在美味哦。
+面条三明治	ヌードルサンド	Noodle Sandwich	既不知道何时流行起来，也不知道食谱出自何人，充满谜团的三明治。
+超级面条三明治	スーパーヌードルサンド	Great Noodle Sandwich	能令人很有饱腹感的三明治。里面放了生菜，让其更易入口。
+高级面条三明治	ハイパーヌードルサンド	Ultra Noodle Sandwich	份量满分的三明治。辣香肠的口感与味道十分出众。
+大师面条三明治	マスターヌードルサンド	Master Noodle Sandwich	淡淡的苦味诱人食欲。吃起来十分有感觉的三明治。
+土豆沙拉三明治	ポテトサラダサンド	Potato Salad Sandwich	既健康又足量的三明治。但味道好坏取决于土豆沙拉。
+超级土豆沙拉三明治	スーパーポテトサラダサンド	Great Potato Salad Sandwich	虽然以蔬菜为主，但能吃得很满足的三明治。牛油果即使稍微偏硬也不错。
+高级土豆沙拉三明治	ハイパーポテトサラダサンド	Ultra Potato Salad Sandwich	这款三明治夹着种类丰富的蔬菜。会吃的人喜欢将味调得偏浓。
+大师土豆沙拉三明治	マスターポテトサラダサンド	Master Potato Salad Sandwich	土豆沙拉三明治的完美版本。味道的关键取决于带甜味的调味料。
+香辣三明治	スパイシーサンド	Zesty Sandwich	靠辛辣的酱汁带出了蔬菜鲜甜的三明治。
+超级香辣三明治	スーパースパイシーサンド	Great Zesty Sandwich	一款青椒的苦味与辛辣的酱汁十分搭配的三明治。
+高级香辣三明治	ハイパースパイシーサンド	Ultra Zesty Sandwich	能让人摄取足够蔬菜的三明治，辛辣的酱汁带出了蔬菜的鲜味。
+大师香辣三明治	マスタースパイシーサンド	Master Zesty Sandwich	辣味和酸味的平衡绝佳，会让人吃不停的三明治。
+蛋三明治	たまごサンド	Egg Sandwich	这款三明治朴素的味道为人喜爱。能够享受蛋原本的美味。
+超级蛋三明治	スーパーたまごサンド	Great Egg Sandwich	洋葱的甜味与口感带出了蛋的美味，十分好吃。
+高级蛋三明治	ハイパーたまごサンド	Ultra Egg Sandwich	若吃腻了朴素的蛋三明治，就该吃这个。芝士与蛋搭配得天衣无缝。
+大师蛋三明治	マスターたまごサンド	Master Egg Sandwich	蛋三明治的完美版本。浓厚的咸味是重点。
+基本款三明治	きほんのサンド	Classic Bocadillo	馅料满满的三明治。饱腹感十足，很受年轻人欢迎。
+超级基本款三明治	スーパーきほんのサンド	Great Classic Bocadillo	调味料风味怡人的三明治。烘蛋热乎乎的十分好吃哦。
+高级基本款三明治	ハイパーきほんのサンド	Ultra Classic Bocadillo	吃起来十分有感觉的三明治。推荐选用后熟程度好的牛油果。
+大师基本款三明治	マスターきほんのサンド	Master Classic Bocadillo	份量满分的三明治。苦味让整体味道变得和谐。
+清爽三明治	さわやかサンド	Refreshing Sandwich	吃起来就像在吃沙拉的三明治。番茄够多，对身体很好哦。
+超级清爽三明治	スーパーさわやかサンド	Great Refreshing Sandwich	十分健康的三明治。奇异果的酸味发挥得淋漓尽致。
+高级清爽三明治	ハイパーさわやかサンド	Ultra Refreshing Sandwich	只夹了蔬菜和水果的三明治。即使并非爱吃蔬菜，也十分推荐。
+大师清爽三明治	マスターさわやかサンド	Master Refreshing Sandwich	调味以酸味为主，再对馅料添加辣味，令整个味道变得会让人上瘾。
+培根生菜番茄三明治	ＢＬＴサンド	BLT Sandwich	正宗传统的三明治。主流而普通的味道绝对不会有错。
+超级培根生菜番茄三明治	スーパーＢＬＴサンド	Great BLT Sandwich	这款培根生菜番茄三明治，带着令人感觉有点奢侈的罗勒风味。
+高级培根生菜番茄三明治	ハイパーＢＬＴサンド	Ultra BLT Sandwich	加入了芝士提升口感。这款三明治味道的平衡做到了极致。
+大师培根生菜番茄三明治	マスターＢＬＴサンド	Master BLT Sandwich	微微的甜味让所有馅料保持和谐，如同奇迹一般的三明治。
+炸鱼片三明治	きりみフライサンド	Fried Fillet Sandwich	土豆沙拉在其中扮演着重要角色，很好地中和了炸鱼片的油腻感。
+超级炸鱼片三明治	スーパーきりみフライサンド	Great Fried Fillet Sandwich	这款三明治，生菜新鲜的口感与炸鱼片十分搭配。
+高级炸鱼片三明治	ハイパーきりみフライサンド	Ultra Fried Fillet Sandwich	辣根清爽的辣味令这款三明治很容易入口。
+大师炸鱼片三明治	マスターきりみフライサンド	Master Fried Fillet Sandwich	加入了辣味十分易入口。是一款完美的炸鱼片三明治。
+火腿三明治	ハムサンド	Ham Sandwich	廉价的味道造就出的最棒三明治。蛋黄酱一定要加个够。
+超级火腿三明治	スーパーハムサンド	Great Ham Sandwich	加入了两种火腿的三明治。尽管味道有点腻口，但非常好吃。
+高级火腿三明治	ハイパーハムサンド	Ultra Ham Sandwich	这款三明治，小辣椒刺激的辣味带出了火腿的鲜味。
+大师火腿三明治	マスターハムサンド	Master Ham Sandwich	咸味仿佛在轻抚舌头的究极火腿三明治。放入了较多火腿，口感让人倍感幸福。
+芝士三明治	チーズサンド	Cheese Sandwich	为爱吃芝士的人而制的三明治。朴素的调味容易入口。
+超级芝士三明治	スーパーチーズサンド	Great Cheese Sandwich	吃上去十分实在的三明治。稍硬的牛油果很好吃。
+高级芝士三明治	ハイパーチーズサンド	Ultra Cheese Sandwich	散发着诱人罗勒香味的三明治。多下胡椒会让味道更加平衡和美味。
+大师芝士三明治	マスターチーズサンド	Master Cheese Sandwich	这款三明治以强烈的咸味带出了芝士的鲜香美味。
+汉堡排三明治	ハンバーグサンド	Hamburger Patty Sandwich	以汉堡排为主角的三明治。醋的酸味是重点。
+超级汉堡排三明治	スーパーハンバーグサンド	Great Hamburger Patty Sandwich	以汉堡排为主角的三明治。辣根的辣味是重点。
+高级汉堡排三明治	ハイパーハンバーグサンド	Ultra Hamburger Patty Sandwich	以汉堡排为主角的三明治。豆瓣菜的苦味是重点。
+大师汉堡排三明治	マスターハンバーグサンド	Master Hamburger Patty Sandwich	以汉堡排为主角的三明治。调味料的甜味是重点。
+烟熏鱼片三明治	スモークきりみサンド	Smoky Sandwich	味道高雅的三明治。调味料间的平衡很重要。
+超级烟熏鱼片三明治	スーパーきりみサンド	Great Smoky Sandwich	味道清爽的三明治。蔬菜不能放太多。
+高级烟熏鱼片三明治	ハイパーきりみサンド	Ultra Smoky Sandwich	味道优雅的三明治。罗勒的香味与鱼片很搭配。
+大师烟熏鱼片三明治	マスターきりみサンド	Master Smoky Sandwich	在部分人当中流传着这款三明治是烟熏鱼片的究极食用方法的传闻。
+水果三明治	フルーツサンド	Fruit Sandwich	加入了大量水果的三明治。其精髓在于鲜奶油较少，能原汁原味品尝食材。
+超级水果三明治	スーパーフルーツサンド	Great Fruit Sandwich	像点心一样的三明治。橘子酱不需多，足以增添风味即可。
+高级水果三明治	ハイパーフルーツサンド	Ultra Fruit Sandwich	像甜品一样的三明治。要注意不能放太多酸奶。
+大师水果三明治	マスターフルーツサンド	Master Fruit Sandwich	拥有奢华味道的三明治。要小心不能放太多调味料。
+什锦三明治	ミックスサンド	Variety Sandwich	能品尝到各种味道的三明治。馅料的平衡请按个人喜好调整。
+超级什锦三明治	スーパーミックスサンド	Great Variety Sandwich	土豆沙拉能令人饱腹感十足。在年轻人里很受欢迎的三明治。
+高级什锦三明治	ハイパーミックスサンド	Ultra Variety Sandwich	放了汉堡排，份量充足。放了较多调味料，很受年轻人欢迎。
+大师什锦三明治	マスターミックスサンド	Master Variety Sandwich	以极致的苦味将馅料融合在一起，深受懂吃的人欢迎。
+毛崖蟹三明治	ガケガニサンド	Klawf Claw Sandwich	能吃个满足又低卡路里。适合用来减肥的三明治。
+超级毛崖蟹三明治	スーパーガケガニサンド	Great Klawf Claw Sandwich	辛辣的酱汁会让人上瘾，较为面向大人的三明治。
+高级毛崖蟹三明治	ハイパーガケガニサンド	Ultra Klawf Claw Sandwich	接近完美的三明治。椒片的口感是其亮点。
+大师毛崖蟹三明治	マスターガケガニサンド	Master Klawf Claw Sandwich	这款三明治通过辛辣的味道突出了馅料的鲜味。
+甜品三明治	スィートサンド	Sweet Sandwich	与水果三明治很相似的三明治。不同之处与亮点在于黄油。
+超级甜品三明治	スーパースィートサンド	Great Sweet Sandwich	为了带出馅料的甜味，而加了少量盐的三明治。
+高级甜品三明治	ハイパースィートサンド	Ultra Sweet Sandwich	全靠罗勒轻微的苦味与风味，这款三明治其他馅料更为突出。
+大师甜品三明治	マスタースィートサンド	Master Sweet Sandwich	使用酸味添加了风味的三明治。调味料下极少量即可。
+蔬菜三明治	おやさいサンド	Vegetable Sandwich	健康又多汁的三明治。蔬菜的新鲜程度决定其味道。
+超级蔬菜三明治	スーパーおやさいサンド	Great Vegetable Sandwich	仅靠蔬菜制作而成的三明治。其味道取决于调味料。
+高级蔬菜三明治	ハイパーおやさいサンド	Ultra Vegetable Sandwich	以蔬菜作为王牌的三明治。多放豆瓣菜让味道统一。
+大师蔬菜三明治	マスターおやさいサンド	Master Vegetable Sandwich	蔬菜三明治的完美形态。其味道好坏大大取决于调味料的多少。
+满腹三明治	ボリュームサンド	Hefty Sandwich	仅使用了能让人吃个满足的食材。基本上这款三明治的着重点在于份量。
+超级满腹三明治	スーパーボリュームサンド	Great Hefty Sandwich	这款三明治的概念就是要让人吃个饱。比起味道更加优先份量。
+高级满腹三明治	ハイパーボリュームサンド	Ultra Hefty Sandwich	追求能吃饱的三明治。吃的时候要注意健康。
+大师满腹三明治	マスターボリュームサンド	Master Hefty Sandwich	因为酸味所以能简单入口，但这款三明治的卡路里并没改变。
+成熟滋味三明治	おとなのサンド	Five-Alarm Sandwich	正如其名字，是款面向大人的三明治。较辣的蔬菜可是成熟的象征。
+超级成熟滋味三明治	スーパーおとなのサンド	Great Five-Alarm Sandwich	调味料之间难以取得平衡的三明治。罗勒的香味诱人食欲。
+高级成熟滋味三明治	ハイパーおとなのサンド	Ultra Five-Alarm Sandwich	加入了辣味，变得更有成熟的滋味了。不是人人都能吃下的三明治。
+大师成熟滋味三明治	マスターおとなのサンド	Master Five-Alarm Sandwich	基本上以辣味为主的三明治。无法推荐给受不了刺激的人。
+新蔬菜三明治	ネオやさいサンド	Nouveau Veggie Sandwich	这款三明治以蔬菜为中心。独特的酱汁十分刺激。
+超级新蔬菜三明治	スーパーネオやさいサンド	Great Nouveau Veggie Sandwich	蔬菜担任主角的三明治。放入小黄瓜之后就马上吃掉吧。
+高级新蔬菜三明治	ハイパーネオやさいサンド	Ultra Nouveau Veggie Sandwich	献给爱吃蔬菜的人的三明治。蛋黄酱的量能添加风味便够了。
+大师新蔬菜三明治	マスターネオやさいサンド	Master Nouveau Veggie Sandwich	为蔬菜而创作出的三明治。轻微的甜味能够衬托出蔬菜的鲜味。
+甜辣三明治	あまからサンド	Spicy-Sweet Sandwich	黄油的甜味与辣根的辣味配搭得很棒的三明治。
+超级甜辣三明治	スーパーあまからサンド	Great Spicy-Sweet Sandwich	牛油果的味道十分浓郁的三明治。味道取决于所用水果的平衡。
+高级甜辣三明治	ハイパーあまからサンド	Ultra Spicy-Sweet Sandwich	甜与辣的平衡最为重要。多放芝士会很好吃哦。
+大师甜辣三明治	マスターあまからサンド	Master Spicy-Sweet Sandwich	暗藏的苦味令这款三明治甜辣的味道变得和谐。
+豪华三明治	リッチサンド	Decadent Sandwich	因为馅料的味道很强烈，所以这款三明治少下调味料更好吃。
+超级豪华三明治	スーパーリッチサンド	Great Decadent Sandwich	所用食材豪华且贵重的三明治。靠豆腐而增加了口感。
+高级豪华三明治	ハイパーリッチサンド	Ultra Decadent Sandwich	食材上难以取得平衡的三明治。味道调得比较浓会更好吃。
+大师豪华三明治	マスターリッチサンド	Master Decadent Sandwich	此三明治用最上等的辣味将充满个性的食材们整合了起来，乃是一款杰作。
+豆腐三明治	トーフサンド	Tofu Sandwich	食谱由豆腐爱好者发明。份量十足的三明治。
+超级豆腐三明治	スーパートーフサンド	Great Tofu Sandwich	制作难度稍高的三明治。豆腐的水分要充分去掉。
+高级豆腐三明治	ハイパートーフサンド	Ultra Tofu Sandwich	味道清淡的豆腐与豆瓣菜的苦味很搭配的神奇三明治。
+大师豆腐三明治	マスタートーフサンド	Master Tofu Sandwich	这款三明治通过贵重调味料的咸味，让蕴藏在豆腐中的鲜味绽放出了光彩。
+咖喱＆面条三明治	カレー＆ヌードルサンド	Curry-and-Noodle Sandwich	充满挑战精神的三明治。咖喱粉要稍微炒过再使用。
+超级咖喱＆面条三明治	スーパーカレー＆ヌードルサンド	Great Curry-and-Noodle Sandwich	这款三明治以小辣椒刺激的辣味突出了咖喱的风味。
+高级咖喱＆面条三明治	ハイパーカレー＆ヌードルサンド	Ultra Curry-and-Noodle Sandwich	蛋让本来辛辣的味道变得十分柔和。
+大师咖喱＆面条三明治	マスターカレー＆ヌードルサンド	Master Curry-and-Noodle Sandwich	美味与否取决于淡淡的甜味。味道酝酿出了底蕴与层次感。
+巨无霸三明治	タワーサンド	Tower Sandwich	极为暴力的三明治。份量才是正义。
+超级巨无霸三明治	スーパータワーサンド	Great Tower Sandwich	想法以份量为中心的三明治。而对味道并无什么特别需要提及的。
+高级巨无霸三明治	ハイパータワーサンド	Ultra Tower Sandwich	只执着于份量的三明治。根据调味也能做得美味。
+大师巨无霸三明治	マスタータワーサンド	Master Tower Sandwich	托调味料的福，这款三明治不仅份量大，味道也不错。
+寿司风三明治	スシふうサンド	Sushi Sandwich	以寿司为目标做出的三明治。味道意外地好，希望这能让人惊讶。
+超级寿司风三明治	スーパースシふうサンド	Great Sushi Sandwich	参考寿司制作出的三明治。豆瓣菜的苦味很突出。
+高级寿司风三明治	ハイパースシふうサンド	Ultra Sushi Sandwich	寿司爱好者想出来的三明治。其份量也是魅力之一。
+大师寿司风三明治	マスタースシふうサンド	Master Sushi Sandwich	完美的寿司三明治。清爽的酸味堪称极品。
