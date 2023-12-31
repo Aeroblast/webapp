@@ -67,7 +67,9 @@
 
         .source {}
 
-        .power {}
+        .power {
+            padding-left: 1em;
+        }
 
         li[data-select=false] {
             display: none;
@@ -87,18 +89,18 @@
 
             <span id="filters">
                 <select class="filter_power">
-                    <option selected value="闪耀力">闪耀力</option>
+
                 </select>
 
                 <select class="filter_power">
-                    <option selected value="称号力">称号力</option>
+
                 </select>
                 <select class="filter_power">
-                    <option selected value="大大力">大大力</option>
+
                 </select>
 
                 <select class="filter_type">
-                    <option selected value="一般">一般</option>
+
                 </select>
             </span>
 
@@ -115,16 +117,17 @@
 
     <script>
         const names_power = `
-蛋蛋力|タマゴ|Egg
-捕获力|ほかく|Catching
-经验力|けいけんち|Exp. Point
-掉物力|おとしもの|Item Drop
-团战力|レイド|Raid
-称号力|二つ名|Title
-闪耀力|かがやき|Sparkling
-大大力|でかでか|Humungo
-小小力|ちびちび|Teensy
-遭遇力|そうぐう|Encounter`.trim().split('\n').map(l => l.split('|'));
+蛋蛋力|タマゴ|Egg|Egg
+捕获力|ほかく|Catching|Catching
+经验力|けいけんち|Exp. Point|ExpPoint
+掉物力|おとしもの|Item Drop|ItemDrop
+团战力|レイド|Raid|Raid
+称号力|二つ名|Title|Title
+闪耀力|かがやき|Sparkling|Sparking
+大大力|でかでか|Humungo|Humungo
+小小力|ちびちび|Teensy|Teensy
+遭遇力|そうぐう|Encounter|Encounter`.trim().split('\n').map(l => l.split('|'));
+
         var data_condiment;
         var data_ingredient;
         var data_recipe;
@@ -163,9 +166,10 @@
             GenHTML();
 
             InitFilters();
+            LoadQuery();
 
             loaded = true;
-            // to-do: load query
+
         }
         function InitFilters() {
             let opts = names_power.map(l => `
@@ -204,18 +208,23 @@ ${icon}
 </div>`;
         }
         function Power2HTML(obj) {
-            let type = "";
-            if (obj.type) {
-                type = data_type.find(x => x.chs == obj.type);
-                type = `<span class="type" data-chs="${obj.type}" data-jpn="${type.jpn}" data-eng="${type.eng}">${obj.type}</span>`;
-            }
-            let power_name = names_power.find(x => x[0] == obj.name);
             return `
 <div class="power">
-    <span class="name" data-chs="${obj.name}" data-jpn="${power_name[1]}" data-eng="${power_name[2]}">${obj.name}</span>
-    ${type}
+    ${PowerName2HTML(obj.name)}
+    ${obj.type ? Type2HTML(obj.type) : ""}
     <span class="lv">${obj.lv}</span>
 </div>`;
+        }
+        function PowerName2HTML(name) {
+            let power_name = names_power.find(x => x[0] == name);
+            return `<span class="name" data-chs="${name}" data-jpn="${power_name[1]}" data-eng="${power_name[2]}">${power_name[{ "chs": 0, "jpn": 1, "eng": 2 }[lang]]}</span>`
+        }
+
+        function Type2HTML(type) {
+            console.log(lang);
+            const o = data_type.find(x => x.chs == type);
+            return `<span class="type" data-chs="${type}" data-jpn="${o.jpn}" data-eng="${o.eng}">${o[lang]}</span>`;
+
         }
 
         function Recipe2HTML(recipe) {
@@ -254,10 +263,13 @@ ${icon}
 
         function Apply() {
             if (!loaded) return;
-            let powers = Array.from(document.querySelectorAll(".filter_power")).map(e => e.value);
-            powers = powers.filter(x => x);
+            let powers = Array.from(document.querySelectorAll(".filter_power")).map(e => e.value)
+                .filter(x => x);
             let type = document.querySelector(".filter_type").value;
-            document.querySelector("#current_filter").innerHTML = powers.join(", ") + (type ? " × " + type : "");
+            Filter(powers, type);
+            SetQuery(powers, type);
+        }
+        function Filter(powers, type) {
             let result = data_recipe.filter(recipe => {
                 for (const needed of powers) {
                     let r = recipe.powers.find(x => x.name == needed);
@@ -273,10 +285,51 @@ ${icon}
 
             data_recipe.forEach(x => x.element.setAttribute("data-select", "false"))
             result.forEach(x => x.element.setAttribute("data-select", "true"))
+            document.querySelector("#current_filter").innerHTML = powers.map(PowerName2HTML).join(", ") + (type ? " × " + Type2HTML(type) : "");
         }
+
+        function LoadQuery() {
+            const param = new URLSearchParams(location.search);
+            const param_power = param.get("power");
+            const param_type = param.get("type");
+            // to-do: lang
+            let powers = (param_power ? param_power.split('-') : [])
+                .map(p => names_power.find(x => x[3] == p))
+                .filter(x => x).map(x => x[0]);
+            let type = data_type.find(x => x.eng == param_type);
+            type = type ? type.chs : null;
+
+
+            if (type) { document.querySelector(".filter_type").value = type; }
+            if (powers.length > 0) {
+                Array.from(document.querySelectorAll(".filter_power"))
+                    .forEach((x, i) => x.value = i < powers.length ? powers[i] : "");
+            }
+            Filter(powers, type);
+        }
+
+        function SetQuery(powers, type) {
+            const paramsObj = {};
+            if (powers && powers.length > 0) {
+                paramsObj.power = powers.map(p => names_power.find(x => x[0] == p)[3]).join("-");
+            }
+            if (type) {
+                paramsObj.type = data_type.find(x => x.chs == type).eng;
+            }
+            const param = new URLSearchParams(paramsObj).toString();
+            const url = location.origin + location.pathname + "?" + param;
+            history.pushState({}, "", url);
+        }
+        window.onpopstate = function (event) {
+            if (loaded) {
+                LoadQuery();
+            }
+        }
+        var lang = "chs";
         function ChangeLang() {
-            const s = document.querySelector("#select_lang");;
+            const s = document.querySelector("#select_lang");
             if (!loaded) { s.value = "chs"; return; }
+            lang = s.value;
             const k = "data-" + s.value;
             const es = document.querySelectorAll(`[${k}]`);
             [].forEach.call(es, e => {
@@ -284,17 +337,6 @@ ${icon}
                 e.innerHTML = v;
             })
         }
-
-
-        function GetQuery() {
-
-        }
-
-        function SetQuery() {
-
-        }
-
-
     </script>
 </body>
 
