@@ -68,7 +68,7 @@
         .source {}
 
         .power {
-            padding-left: 1em;
+            padding-left: 0.7em;
         }
 
         li[data-select=false] {
@@ -285,7 +285,10 @@ ${icon}
 
             data_recipe.forEach(x => x.element.setAttribute("data-select", "false"))
             result.forEach(x => x.element.setAttribute("data-select", "true"))
-            document.querySelector("#current_filter").innerHTML = powers.map(PowerName2HTML).join(", ") + (type ? " × " + Type2HTML(type) : "");
+            document.querySelector("#current_filter").innerHTML =
+                powers.map(PowerName2HTML).join(", ")
+                + (type ? " × " + Type2HTML(type) : "")
+                + ` => ${result.length} results`;
         }
 
         function LoadQuery() {
