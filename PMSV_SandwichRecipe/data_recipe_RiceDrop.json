@@ -1,0 +1,4369 @@
+[
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：苦味料/秘传：辣味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：酸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：酸味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄油/奶油芝士",
+      "秘传：辣味料",
+      "秘传：咸味料/秘传：酸味料/秘传：辣味料",
+      "咖喱粉"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "虫"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "虫"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "虫"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：苦味料/秘传：辣味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：咸味料/秘传：辣味料",
+      "秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：咸味料/秘传：苦味料/秘传：辣味料",
+      "秘传：酸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：酸味料/秘传：甜味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "秘传：辣味料",
+      "秘传：苦味料/秘传：咸味料/秘传：酸味料",
+      "芥末酱"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "恶"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "恶"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "恶"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：苦味料/秘传：甜味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：咸味料",
+      "秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：苦味料/秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：甜味料",
+      "秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "醋",
+      "秘传：甜味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "龙"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "龙"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "龙"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：酸味料",
+      "秘传：咸味料/秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：酸味料/秘传：甜味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：辣味料",
+      "秘传：辣味料",
+      "盐"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "莓果酱",
+      "秘传：辣味料",
+      "秘传：酸味料/秘传：咸味料",
+      "芥末酱"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "电"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "电"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "电"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：酸味料",
+      "秘传：咸味料/秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：酸味料/秘传：甜味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：辣味料",
+      "秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "酸奶",
+      "醋",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "妖精"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "妖精"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "妖精"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：酸味料/秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：辣味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：酸味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：辣味料",
+      "秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：辣味料",
+      "秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橘子酱",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "格斗"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "格斗"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "格斗"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "橄榄油",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "火"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "火"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "火"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "橄榄油",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "火"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "火"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "火"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "橄榄油",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：酸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "火"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "火"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "火"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "橄榄油",
+      "秘传：酸味料",
+      "秘传：辣味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "火"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "火"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "火"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "橄榄油",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "火"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "火"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "火"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "橄榄油",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "火"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "火"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "火"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "橄榄油",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "火"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "火"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "火"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：酸味料/秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：酸味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：辣味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：辣味料",
+      "秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "飞行"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "飞行"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "飞行"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：辣味料/秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：辣味料",
+      "秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：甜味料",
+      "秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "橄榄油",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：酸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "幽灵"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "幽灵"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：苦味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：酸味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：酸味料/秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：甜味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "橄榄油",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "草"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "草"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "草"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：酸味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：酸味料/秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料/秘传：甜味料",
+      "花生酱"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "地面"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "地面"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "地面"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：甜味料/秘传：酸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：酸味料",
+      "秘传：酸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：酸味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：酸味料/秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "胡椒",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料",
+      "莓果酱/酸奶"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "冰"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "冰"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "冰"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：辣味料/秘传：酸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：酸味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "秘传：辣味料",
+      "秘传：苦味料/秘传：咸味料/秘传：酸味料",
+      "辣根"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "一般"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "一般"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "一般"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：酸味料",
+      "秘传：苦味料/秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：酸味料/秘传：甜味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：辣味料",
+      "秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "番茄酱",
+      "橘子酱",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "毒"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "毒"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "毒"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：酸味料",
+      "秘传：苦味料/秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：酸味料/秘传：甜味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：辣味料",
+      "秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "醋",
+      "秘传：甜味料",
+      "秘传：苦味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "超能力"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "超能力"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "超能力"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "橘子酱",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：酸味料/秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "岩石"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "岩石"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "岩石"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "橘子酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "岩石"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "岩石"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "岩石"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "橘子酱",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：咸味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "岩石"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "岩石"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "岩石"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "橘子酱",
+      "秘传：酸味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "岩石"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "岩石"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "岩石"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "橘子酱",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "岩石"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "岩石"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "岩石"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "橘子酱",
+      "秘传：辣味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "岩石"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "岩石"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "岩石"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "黄芥末酱",
+      "橘子酱",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：咸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "岩石"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "岩石"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "岩石"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：苦味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：辣味料/秘传：酸味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：酸味料",
+      "秘传：苦味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：辣味料",
+      "秘传：苦味料/秘传：酸味料",
+      "辣酱/咖喱粉/胡椒/芥末酱"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "花生酱",
+      "秘传：辣味料",
+      "秘传：咸味料",
+      "咖喱粉/芥末酱"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "钢"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "钢"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "钢"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：苦味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "掉物力",
+        "type": "水"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：咸味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "经验力",
+        "type": "水"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：咸味料",
+      "秘传：咸味料/秘传：酸味料/秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "遭遇力",
+        "type": "水"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：酸味料",
+      "秘传：酸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "小小力",
+        "type": "水"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：酸味料",
+      "秘传：甜味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "捕获力",
+        "type": "水"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：辣味料",
+      "秘传：辣味料/秘传：酸味料/秘传：咸味料/秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "大大力",
+        "type": "水"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：甜味料",
+      "秘传：苦味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "蛋蛋力",
+        "type": "水"
+      }
+    ]
+  },
+  {
+    "name_jpn": "ライスは捨てて",
+    "name": "扔掉米饭",
+    "name_eng": "Rice Drop Method",
+    "ingredients": [
+      "米饭"
+    ],
+    "condiments": [
+      "辣酱",
+      "秘传：甜味料",
+      "秘传：甜味料/秘传：辣味料"
+    ],
+    "powers": [
+      {
+        "lv": "Lv3",
+        "name": "闪耀力",
+        "type": "水"
+      },
+      {
+        "lv": "L3",
+        "name": "称号力",
+        "type": "水"
+      },
+      {
+        "lv": "Lv3",
+        "name": "团战力",
+        "type": "水"
+      }
+    ]
+  }
+]

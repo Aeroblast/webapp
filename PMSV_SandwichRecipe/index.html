@@ -65,14 +65,21 @@
             display: inline;
         }
 
-        .source {}
-
         .power {
             padding-left: 0.7em;
         }
 
         li[data-select=false] {
             display: none;
+        }
+
+        .item {
+            text-indent: -1em;
+            padding-left: 1em;
+        }
+
+        .item>span {
+            white-space: nowrap;
         }
     </style>
 </head>
@@ -116,6 +123,7 @@
     </article>
 
     <script>
+        // CHS|JPN|ENG|For url query
         const names_power = `
 蛋蛋力|タマゴ|Egg|Egg
 捕获力|ほかく|Catching|Catching
@@ -131,33 +139,37 @@
         var data_condiment;
         var data_ingredient;
         var data_recipe;
+        var data_recipe_RiceDrop;
         var data_type;
         var loaded = false;
         async function load() {
-            const p0 = fetch("data_condiment.json").then(r => r.json()).then(json => data_condiment = json);
-            const p1 = fetch("data_ingredient.json").then(r => r.json()).then(json => data_ingredient = json);
-            const p2 = fetch("data_recipe.json").then(r => r.json()).then(json => data_recipe = json);
-            const p3 = fetch("names_type.txt").then(r => r.text()).then(text => {
+            await Promise.all([
+                fetch("data_condiment.json").then(r => r.json()).then(json => data_condiment = json),
+                fetch("data_ingredient.json").then(r => r.json()).then(json => data_ingredient = json),
+                fetch("data_recipe.json").then(r => r.json()).then(json => data_recipe = json),
+                fetch("data_recipe_RiceDrop.json").then(r => r.json()).then(json => data_recipe_RiceDrop = json),
+                fetch("names_type.txt").then(r => r.text()).then(text => {
 
-                const raw = text.replaceAll('\r', '').trim();
-                const type_names = raw.split('\n').map(l => l.split('\t'));
-                data_type = type_names.map(l => {
-                    const chs = l[0].split('/');
-                    const jpn = l[2].split('/');
-                    const obj = {
-                        chs: chs[0],
-                        cht: l[1],
-                        jpn: jpn[0],
-                        jpn_alter: jpn[1],
-                        eng: l[3]
-                    }
-                    if (chs.length > 1) { obj.chs_alter = chs[1]; }
-                    return obj;
+                    const raw = text.replaceAll('\r', '').trim();
+                    const type_names = raw.split('\n').map(l => l.split('\t'));
+                    data_type = type_names.map(l => {
+                        const chs = l[0].split('/');
+                        const jpn = l[2].split('/');
+                        const obj = {
+                            chs: chs[0],
+                            cht: l[1],
+                            jpn: jpn[0],
+                            jpn_alter: jpn[1],
+                            eng: l[3]
+                        }
+                        if (chs.length > 1) { obj.chs_alter = chs[1]; }
+                        return obj;
+                    })
                 })
-            });
 
-            await Promise.all([p0, p1, p2, p3])
+            ]);
 
+            data_recipe = data_recipe_RiceDrop.concat(data_recipe);
             console.log(names_power);
             console.log(data_condiment);
             console.log(data_ingredient);
@@ -195,17 +207,19 @@
             }
         }
         const recipe_name_original = `<span data-chs="自由模式" data-jpn="フリーモード" data-eng="Creative Mode">自由模式</span>`;
-        function Item2HTML(name, data) {
-            let item = data.find(x => x.name == name);
-            let icon = "";
-            if (name != "任意秘传调味料") {
-                icon = `<img class="icon" src="icons/${name}.png">`
-            }
-            return `
-<div class="item">
-${icon}
-<span data-chs="${name}" data-jpn="${item.name_jpn}" data-eng="${item.name_eng}">${name}</span>
-</div>`;
+        const or_html = `<span data-chs="或 " data-jpn="or " data-eng="or ">或 </span>`;
+        function Item2HTML(name_str, data) {
+            let names = name_str.split('/');
+            let htmls = names.map(name => {
+                let item = data.find(x => x.name == name);
+                if (!item) { throw name; }
+                let icon = "";
+                if (name != "任意秘传调味料") {
+                    icon = `<img class="icon" src="icons/${name}.png">`
+                }
+                return `<span>${icon}<span data-chs="${name}" data-jpn="${item.name_jpn}" data-eng="${item.name_eng}">${name}</span></span>`
+            });
+            return `<div class="item">${htmls.join('<br>' + or_html)}</div>`;
         }
         function Power2HTML(obj) {
             return `
@@ -221,25 +235,28 @@ ${icon}
         }
 
         function Type2HTML(type) {
-            console.log(lang);
             const o = data_type.find(x => x.chs == type);
             return `<span class="type" data-chs="${type}" data-jpn="${o.jpn}" data-eng="${o.eng}">${o[lang]}</span>`;
 
         }
 
         function Recipe2HTML(recipe) {
-            let name;
-            if (recipe.number) {
-                name = `<span class="recipe_number">${recipe.number}</span>
+            try {
+                let name;
+                if (recipe.number) {
+                    name = `<span class="recipe_number">${recipe.number}</span>
                 <span data-chs="${recipe.name}" data-jpn="${recipe.name_jpn}" data-eng="${recipe.name_eng}">${recipe.name}</span>`;
-            } else {
-                name = recipe_name_original;
-            }
-            let ingredients = recipe.ingredients.map(item => Item2HTML(item, data_ingredient)).join("");
-            let condiments = recipe.condiments.map(item => Item2HTML(item, data_condiment)).join("");
-            let powers = recipe.powers.map(p => Power2HTML(p)).join("");
+                } else if (recipe.name) {
+                    name = `<span data-chs="${recipe.name}" data-jpn="${recipe.name_jpn}" data-eng="${recipe.name_eng}">${recipe.name}</span>`;
 
-            return `
+                } else {
+                    name = recipe_name_original;
+                }
+                let ingredients = recipe.ingredients.map(item => Item2HTML(item, data_ingredient)).join("");
+                let condiments = recipe.condiments.map(item => Item2HTML(item, data_condiment)).join("");
+                let powers = recipe.powers.map(p => Power2HTML(p)).join("");
+
+                return `
 <li>
 <div class="recipe_name">${name}</div>
 <div class="detail">
@@ -254,6 +271,11 @@ ${icon}
 </div>
 </li>
 `;
+            } catch (e) {
+                console.log(recipe)
+                throw e;
+            }
+
         }
 
 
